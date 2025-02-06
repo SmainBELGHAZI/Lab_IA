@@ -1,47 +1,34 @@
+# 📌 **Projet : Lab Reports**
 
-📌 Projet : Lab Reports
+Ce dépôt contient deux fichiers HTML générés à partir de notebooks Jupyter ou d’autres environnements de développement interactifs.
 
-Ce dépôt contient deux fichiers HTML (Lab_10.html et Lab_11.html) générés à partir de notebooks Jupyter ou d’un autre environnement de développement interactif.
+---
 
-📂 Contenu du projet
+## 📂 **Contenu du projet**
 
-Lab_10.html : Rapport du laboratoire 10, contenant des analyses, du code et des résultats.
-
-Lab_11.html : Rapport du laboratoire 11, incluant du code et des visualisations interactives.
-
-
-🚀 Comment utiliser ces fichiers ?
-
-1. Cloner le dépôt :
-
-git clone https://github.com/ton-utilisateur/ton-repo.git
-
-
-2. Ouvrir les fichiers HTML :
-
-Double-clique simplement sur Lab_10.html ou Lab_11.html pour l'ouvrir dans un navigateur.
-
-Alternativement, tu peux utiliser un serveur local :
-
-python -m http.server
-
-Ensuite, ouvre http://localhost:8000/Lab_10.html ou Lab_11.html.
+- **`Lab_10.html`** : Rapport du laboratoire 10, comprenant des analyses, du code et des résultats.
+- **`Lab_11.html`** : Rapport du laboratoire 11, avec du code et des visualisations interactives.
+- **`capture ia`** : Capture comprenant toutes les vidéo ou capture d'écrans.
 
 
 
+1. **Ouvrir les fichiers HTML :**
+   - Double-clique simplement sur `Lab_10.html` ou `Lab_11.html` pour les ouvrir directement dans ton navigateur.
+   - Alternativement, tu peux utiliser un serveur local pour héberger les fichiers :
+     ```bash
+     python -m http.server
+     ```
+   - Ensuite, ouvre les fichiers via les liens suivants :
+     - [Lab_10.html](http://localhost:8000/Lab_10.html)
+     - [Lab_11.html](http://localhost:8000/Lab_11.html)
 
-🛠 Technologies utilisées
+---
 
-HTML/CSS : Format de rendu des notebooks
+## 🛠 **Technologies utilisées**
 
-Jupyter Notebook (probablement) : Source d’origine des fichiers
+- **HTML/CSS** : Format de rendu des notebooks.
+- **Jupyter Notebook (probablement)** : Source des fichiers HTML.
 
-
-
-
-
-📜 Licence
-
-Ce projet est sous licence MIT – voir le fichier LICENSE pour plus de détails.
+---
 
 
