@@ -15,8 +15,10 @@ Ces dossiers contiennent les fichiers sources, notebooks et autres ressources de
 - **`Lab5`**
 - **`Lab6`**
 - **`Lab7`**
+- **`Lab8`**
 - **`Lab10`**
 - **`Lab11`**
+- **`Lab12`**
 
 ### 📄 Fichiers individuels
 
@@ -28,8 +30,10 @@ Ces dossiers contiennent les fichiers sources, notebooks et autres ressources de
 - ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) [Lab5.ipynb](Lab5/Lab5.ipynb)
 - ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) [Lab6.ipynb](Lab6/Lab6.ipynb)
 - ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) [Lab7.ipynb](Lab7/Lab7.ipynb)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) [Lab8.ipynb](Lab8/Lab8.ipynb)
 - ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) [Lab10.ipynb](Lab10/Lab10.ipynb)
 - ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) [Lab11.ipynb](Lab11/Lab11.ipynb)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) [Lab12.ipynb](Lab12/Lab12.ipynb)
 
 #### Rapports HTML
 
@@ -39,8 +43,10 @@ Ces dossiers contiennent les fichiers sources, notebooks et autres ressources de
 - ![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white) [Lab5.html](Lab5/Lab5.html)
 - ![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white) [Lab6.html](Lab6/Lab6.html)
 - ![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white) [Lab7.html](Lab7/Lab7.html)
+- ![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white) [Lab8.html](Lab8/Lab8.html)
 - ![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white) [Lab10.html](Lab10/Lab10.html)
 - ![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white) [Lab11.html](Lab11/Lab11.html)
+- ![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white) [Lab12.html](Lab12/Lab12.html)
 
 #### Documents PDF
 
@@ -50,8 +56,10 @@ Ces dossiers contiennent les fichiers sources, notebooks et autres ressources de
 - ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white) [Lab5.pdf](Lab5/Lab5.pdf)
 - ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white) [Lab6.pdf](Lab6/Lab6.pdf)
 - ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white) [Lab7.pdf](Lab7/Lab7.pdf)
+- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white) [Lab8.pdf](Lab8/Lab8.pdf)
 - ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white) [Lab10.pdf](Lab10/Lab10.pdf)
 - ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white) [Lab11.pdf](Lab11/Lab11.pdf)
+- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white) [Lab12.pdf](Lab12/Lab12.pdf)
 
 ### 🎥 **Captures et Vidéos**
 
@@ -74,8 +82,10 @@ Ces dossiers contiennent les fichiers sources, notebooks et autres ressources de
      - [Lab5.html](http://localhost:8000/Lab5/Lab5.html)
      - [Lab6.html](http://localhost:8000/Lab6/Lab6.html)
      - [Lab7.html](http://localhost:8000/Lab7/Lab7.html)
+     - [Lab8.html](http://localhost:8000/Lab8/Lab8.html)
      - [Lab10.html](http://localhost:8000/Lab10/Lab10.html)
      - [Lab11.html](http://localhost:8000/Lab11/Lab11.html)
+     - [Lab12.html](http://localhost:8000/Lab12/Lab12.html)
 
 ---
 
