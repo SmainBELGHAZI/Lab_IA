@@ -6,79 +6,85 @@ Ce dépôt contient plusieurs fichiers et dossiers liés aux laboratoires réali
 
 ## 📂 **Contenu du projet**
 
-### 📁 Dossiers des laboratoires  
-Ces dossiers contiennent les fichiers sources, notebooks et autres ressources des laboratoires :  
-- **`Lab2`**  
-- **`Lab3`**  
-- **`Lab4`**  
-- **`Lab5`**  
-- **`Lab6`**  
-- **`Lab7`**  
-- **`Lab10`**  
+### 📁 Dossiers des laboratoires
+
+Ces dossiers contiennent les fichiers sources, notebooks et autres ressources des laboratoires :
+- **`Lab2`**
+- **`Lab3`**
+- **`Lab4`**
+- **`Lab5`**
+- **`Lab6`**
+- **`Lab7`**
+- **`Lab10`**
 - **`Lab11`**
 
-  ### 📄 Fichiers individuels  
+### 📄 Fichiers individuels
 
- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)  (**Lab2.ipynb**) 
- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)  (**Lab3.ipynb**)
- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)  (**Lab4.ipynb**) 
- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)  (**Lab5.ipynb**)
- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)  (**Lab6.ipynb**)
- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)  (**Lab7.ipynb**)
- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)  (**Lab10.ipynb**) 
- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)  (**Lab11.ipynb**)
+#### Notebooks Jupyter
 
-  
-![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white)  (**Lab2.ipynb**)
-![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white)  (**Lab3.ipynb**)
-![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white)  (**Lab4.ipynb**)
-![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white)  (**Lab5.ipynb**)
-![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white)  (**Lab6.ipynb**)
-![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white)  (**Lab7.ipynb**)
-![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white)  (**Lab10.ipynb**) 
-![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white)  (**Lab11.ipynb**)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) [Lab2.ipynb](Lab2/Lab2.ipynb)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) [Lab3.ipynb](Lab3/Lab3.ipynb)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) [Lab4.ipynb](Lab4/Lab4.ipynb)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) [Lab5.ipynb](Lab5/Lab5.ipynb)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) [Lab6.ipynb](Lab6/Lab6.ipynb)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) [Lab7.ipynb](Lab7/Lab7.ipynb)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) [Lab10.ipynb](Lab10/Lab10.ipynb)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white) [Lab11.ipynb](Lab11/Lab11.ipynb)
 
- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white)  (**Lab2.ipynb**)
- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white)  (**Lab3.ipynb**)
- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white)  (**Lab4.ipynb**)
- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white)  (**Lab5.ipynb**)
- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white)  (**Lab6.ipynb**)
- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white)  (**Lab7.ipynb**)
- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white)  (**Lab10.ipynb**)
- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white)  (**Lab11.ipynb**)  
+#### Rapports HTML
 
+- ![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white) [Lab2.html](Lab2/Lab2.html)
+- ![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white) [Lab3.html](Lab3/Lab3.html)
+- ![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white) [Lab4.html](Lab4/Lab4.html)
+- ![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white) [Lab5.html](Lab5/Lab5.html)
+- ![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white) [Lab6.html](Lab6/Lab6.html)
+- ![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white) [Lab7.html](Lab7/Lab7.html)
+- ![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white) [Lab10.html](Lab10/Lab10.html)
+- ![HTML](https://img.shields.io/badge/HTML-Report-E34F26?logo=html5&logoColor=white) [Lab11.html](Lab11/Lab11.html)
 
-### 🎥 **Captures et Vidéos**  
-- **`capture ia`** : Contient toutes les captures d'écran et vidéos associées au projet.  
+#### Documents PDF
+
+- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white) [Lab2.pdf](Lab2/Lab2.pdf)
+- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white) [Lab3.pdf](Lab3/Lab3.pdf)
+- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white) [Lab4.pdf](Lab4/Lab4.pdf)
+- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white) [Lab5.pdf](Lab5/Lab5.pdf)
+- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white) [Lab6.pdf](Lab6/Lab6.pdf)
+- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white) [Lab7.pdf](Lab7/Lab7.pdf)
+- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white) [Lab10.pdf](Lab10/Lab10.pdf)
+- ![PDF](https://img.shields.io/badge/PDF-Document-FF0000?logo=adobeacrobatreader&logoColor=white) [Lab11.pdf](Lab11/Lab11.pdf)
+
+### 🎥 **Captures et Vidéos**
+
+- **`capture ia`** : Contient toutes les captures d'écran et vidéos associées au projet.
 
 ---
 
+## 🔍 **Comment ouvrir les fichiers HTML**
 
-
-1. **Ouvrir les fichiers HTML :**
-   - Double-clique simplement sur `Lab_10.html` ou `Lab_11.html` `Lab_2.html` `Lab_3.html` `Lab_4.html` `Lab_5.html` `Lab_6.html` `Lab_7.html` pour les ouvrir directement dans ton navigateur.
-   - Alternativement, tu peux utiliser un serveur local pour héberger les fichiers :
+1. **Ouvrir directement** : Double-cliquez simplement sur les fichiers HTML pour les ouvrir dans votre navigateur.
+2. **Utiliser un serveur local** :
+   - Lancez un serveur local avec la commande suivante :
      ```bash
      python -m http.server
      ```
-   - Ensuite, ouvre les fichiers via les liens suivants :
-  
-     - [Lab_2.html](http://localhost:8000/Lab_10.html)
-     - [Lab_3.html](http://localhost:8000/Lab_10.html)
-     - [Lab_4.html](http://localhost:8000/Lab_10.html)
-     - [Lab_5.html](http://localhost:8000/Lab_10.html)
-     - [Lab_6.html](http://localhost:8000/Lab_10.html)
-     - [Lab_7.html](http://localhost:8000/Lab_10.html)
-     - [Lab_10.html](http://localhost:8000/Lab_10.html)
-     - [Lab_11.html](http://localhost:8000/Lab_11.html)
+   - Ensuite, ouvrez les fichiers via les liens suivants :
+     - [Lab2.html](http://localhost:8000/Lab2/Lab2.html)
+     - [Lab3.html](http://localhost:8000/Lab3/Lab3.html)
+     - [Lab4.html](http://localhost:8000/Lab4/Lab4.html)
+     - [Lab5.html](http://localhost:8000/Lab5/Lab5.html)
+     - [Lab6.html](http://localhost:8000/Lab6/Lab6.html)
+     - [Lab7.html](http://localhost:8000/Lab7/Lab7.html)
+     - [Lab10.html](http://localhost:8000/Lab10/Lab10.html)
+     - [Lab11.html](http://localhost:8000/Lab11/Lab11.html)
 
 ---
 
 ## 🛠 **Technologies utilisées**
 
 - **HTML/CSS** : Format de rendu des notebooks.
-- **Jupyter Notebook (probablement)** : Source des fichiers HTML.
+- **Jupyter Notebook** : Source des fichiers HTML.
 
 ---
+
 
 
